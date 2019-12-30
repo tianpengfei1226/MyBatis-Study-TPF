@@ -1,7 +1,7 @@
 package com.tpf.mybatis.bean;
 
 /**
- * <p> </p>
+ * <p> 雇员实体 </p>
  *
  * @author : tianpengfei
  * @version :  Employee.java,v 1.0, 2019/12/27-12:32 tianpengfei Exp $
